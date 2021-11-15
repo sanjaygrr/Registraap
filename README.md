@@ -1,3 +1,3 @@
 # Registraap
-Aplicacion para evaluacion 1 programación de software
-Sede atonio varas
+Aplicacion para programación de aplicaciones 
+Sede atonio varas Duoc UC
