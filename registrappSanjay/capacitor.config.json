@@ -1,0 +1,7 @@
+{
+  "appId": "registrapp.duoc.cl",
+  "appName": "Registrapp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
