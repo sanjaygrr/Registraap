@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Mi Mapa DuocUC</ion-title>
+    <ion-buttons slot="end">
+    <ion-button (click)="closeMenu()">
+      <ion-menu-button></ion-menu-button>
+    </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <agm-map 
+  *ngIf="currentCenter"
+  [latitude]="currentCenter.lat" 
+  [longitude]="currentCenter.lng"
+  [zoom] = "defaultZoom">
+    <agm-marker
+    [latitude]="currentCenter.lat" 
+    [longitude]="currentCenter.lng">
+      <ion-icon name="locate-outline"></ion-icon>
+    </agm-marker>
+
+  </agm-map>
+
+
+</ion-content>

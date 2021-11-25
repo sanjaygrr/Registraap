@@ -24,4 +24,17 @@ export class MenuPage implements OnInit {
     this.storage.remove("isUserLoggedIn");
     this.navCtrl.navigateRoot("/login");
   }
+  goToMapa() {
+    this.navCtrl.navigateRoot("/menu/mapa");
+  }
+  goToLector(){
+    this.navCtrl.navigateRoot("/menu/lector");
+  }
+  goToHome() {
+    this.navCtrl.navigateRoot("/menu/home");
+  }
+  goToCalculadora() {
+    this.navCtrl.navigateRoot("/menu/calculadora");
+  }
+
 }

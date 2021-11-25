@@ -16,7 +16,10 @@ const routes: Routes = [
         path: "home",
         loadChildren: () =>
           import("../home/home.module").then(m => m.HomePageModule)
-      }
+      },
+      { path: 'mapa', loadChildren: '../mapa/mapa.module#MapaPageModule' },
+      { path: 'lector', loadChildren: '../lector/lector.module#LectorPageModule' },
+      { path: 'calculadora', loadChildren: '../calculadora/calculadora.module#CalculadoraPageModule' }
     ]
   }
 ];
