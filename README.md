@@ -33,7 +33,25 @@ mapa donde se puede ver la posicion actual y un side-menu donde se puede navegar
 
 ![image](https://user-images.githubusercontent.com/65647041/150338027-2e0e7a7e-78dc-47ae-b821-082916c56ff3.png)
 
+# Calculadora
+
+Calculadora hecha con Html, Css y funcionalidad con Javascript
+
+![image](https://user-images.githubusercontent.com/65647041/150338868-c26fcbf5-6446-4953-98de-70653bcfb13f.png)
+
+
 # Mis notas 
   Usando Firebase como motor de bases de datos 
 
 ![image](https://user-images.githubusercontent.com/65647041/150338097-c6df14c7-8ae8-4763-bcd4-a420d1b7abe1.png)
+
+#  SideMenu
+
+  Navegacion Sencilla para el ususario a traves de las distitass funcionalidades de la aplicación
+
+![image](https://user-images.githubusercontent.com/65647041/150338959-dad4520a-461e-430f-b7c2-9a60494fd83f.png)
+
+
+
+
+Made with love!  <3
