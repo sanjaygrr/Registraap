@@ -47,7 +47,7 @@ Calculadora hecha con Html, Css y funcionalidad con Javascript
 
 #  SideMenu
 
-  Navegacion Sencilla para el ususario a traves de las distitass funcionalidades de la aplicación
+  Navegacion Sencilla para el ususario a traves de las distintas funcionalidades de la aplicación
 
 ![image](https://user-images.githubusercontent.com/65647041/150338959-dad4520a-461e-430f-b7c2-9a60494fd83f.png)
 
